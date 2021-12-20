@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Shawn Palmer's website!
 
 You can use the [editor on GitHub](https://github.com/spalmer12121/spalmer12121.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
